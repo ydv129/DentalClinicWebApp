@@ -1,11 +1,8 @@
 node_modules/
 dist/
-build/
-*.log
 .env
 .env.local
+*.log
 .DS_Store
-*.tsbuildinfo
-coverage/
-.vscode/
-.idea/
+ Thumbs.db
+vercel.json
